@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Vaid</h1>
-<h3 align="center">Just An Engineer</h3>
+<h3 align="center">AN ETC ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyavaid336&label=Profile%20views&color=0e75b6&style=flat" alt="shreyavaid336" /> </p>
 
