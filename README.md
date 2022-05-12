@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreyavaid2206@gmail.com**
 
-- ⚡ Fun fact **Mistakes Helps us to learn more..**
+- ⚡ Fun fact **Learning never stops **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
